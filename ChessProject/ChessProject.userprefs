@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ChessSpaceScript.cs">
+    <Files>
+      <File FileName="Assets\ChessSpaceScript.cs" Line="115" Column="4" />
+      <File FileName="Assets\ChessPieceScript.cs" Line="239" Column="1" />
+      <File FileName="Assets\ChessBoardRefScript.cs" Line="42" Column="23" />
+      <File FileName="..\BardsBlocks\Assets\BrianFoote\Scripts\BasicPlayerScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

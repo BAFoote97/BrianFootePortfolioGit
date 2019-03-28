@@ -1,0 +1,360 @@
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\nunit.framework.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\student.AII\Desktop\Starfighter Unity Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\student.AII\Desktop\Starfighter Unity Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\student.AII\Desktop\Starfighter Unity Game\obj\Debug\Assembly-CSharp.pdb
+D:\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\mscorlib.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.Locator.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityScript.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.Cecil.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.DataContract.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Starfighter Unity Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Starfighter Unity Game\obj\Debug\Assembly-CSharp.dll
+D:\Starfighter Unity Game\obj\Debug\Assembly-CSharp.pdb
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\mscorlib.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.Locator.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityScript.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.Cecil.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.DataContract.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEditor.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Starfighter Game, November 9th\Starfighter Unity Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Starfighter Game, November 9th\Starfighter Unity Game\obj\Debug\Assembly-CSharp.dll
+D:\Starfighter Game, November 9th\Starfighter Unity Game\obj\Debug\Assembly-CSharp.pdb

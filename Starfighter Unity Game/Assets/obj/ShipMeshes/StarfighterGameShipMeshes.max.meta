@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: f17514edd65163a4c837b2a2ee00ae7a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alpha
+    100002: Delta
+    100004: FedCruiser
+    100006: FedTransport
+    100008: //RootNode
+    100010: SV-07
+    100012: SX-93
+    100014: TR-01
+    100016: FedTurret
+    100018: FedTurretStand
+    100020: Beta
+    100022: TH-18
+    100024: FedStation
+    100026: Asteroid1
+    100028: Asteroid10
+    100030: Asteroid11
+    100032: Asteroid2
+    100034: Asteroid3
+    100036: Asteroid4
+    100038: Asteroid5
+    100040: Asteroid6
+    100042: Asteroid7
+    100044: Asteroid8
+    100046: Asteroid9
+    100048: AsteroidBase
+    100050: RepSatellite
+    400000: Alpha
+    400002: Delta
+    400004: FedCruiser
+    400006: FedTransport
+    400008: //RootNode
+    400010: SV-07
+    400012: SX-93
+    400014: TR-01
+    400016: FedTurret
+    400018: FedTurretStand
+    400020: Beta
+    400022: TH-18
+    400024: FedStation
+    400026: Asteroid1
+    400028: Asteroid10
+    400030: Asteroid11
+    400032: Asteroid2
+    400034: Asteroid3
+    400036: Asteroid4
+    400038: Asteroid5
+    400040: Asteroid6
+    400042: Asteroid7
+    400044: Asteroid8
+    400046: Asteroid9
+    400048: AsteroidBase
+    400050: RepSatellite
+    2100000: No Name
+    2300000: Alpha
+    2300002: Delta
+    2300004: FedCruiser
+    2300006: FedTransport
+    2300008: SV-07
+    2300010: SX-93
+    2300012: TR-01
+    2300014: FedTurret
+    2300016: FedTurretStand
+    2300018: Beta
+    2300020: TH-18
+    2300022: FedStation
+    2300024: Asteroid1
+    2300026: Asteroid10
+    2300028: Asteroid11
+    2300030: Asteroid2
+    2300032: Asteroid3
+    2300034: Asteroid4
+    2300036: Asteroid5
+    2300038: Asteroid6
+    2300040: Asteroid7
+    2300042: Asteroid8
+    2300044: Asteroid9
+    2300046: AsteroidBase
+    2300048: RepSatellite
+    3300000: Alpha
+    3300002: Delta
+    3300004: FedCruiser
+    3300006: FedTransport
+    3300008: SV-07
+    3300010: SX-93
+    3300012: TR-01
+    3300014: FedTurret
+    3300016: FedTurretStand
+    3300018: Beta
+    3300020: TH-18
+    3300022: FedStation
+    3300024: Asteroid1
+    3300026: Asteroid10
+    3300028: Asteroid11
+    3300030: Asteroid2
+    3300032: Asteroid3
+    3300034: Asteroid4
+    3300036: Asteroid5
+    3300038: Asteroid6
+    3300040: Asteroid7
+    3300042: Asteroid8
+    3300044: Asteroid9
+    3300046: AsteroidBase
+    3300048: RepSatellite
+    4300000: Alpha
+    4300002: Delta
+    4300004: SV-07
+    4300006: SX-93
+    4300008: TR-01
+    4300010: FedTransport
+    4300012: FedCruiser
+    4300014: FedTurret
+    4300016: FedTurretStand
+    4300018: Beta
+    4300020: TH-18
+    4300022: FedStation
+    4300024: Asteroid1
+    4300026: Asteroid2
+    4300028: AsteroidBase
+    4300030: Asteroid3
+    4300032: Asteroid4
+    4300034: Asteroid5
+    4300036: Asteroid6
+    4300038: Asteroid7
+    4300040: Asteroid8
+    4300042: Asteroid9
+    4300044: Asteroid10
+    4300046: Asteroid11
+    4300048: RepSatellite
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
